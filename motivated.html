@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Get Motivated — EduSankalp</title>
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    /* small extras for the quotes page */
+    .quotes-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:18px}
+    .quote-card{background:var(--card);padding:18px;border-radius:12px;box-shadow:0 8px 20px rgba(12,12,30,.04)}
+    .quote-card p{margin:0 0 10px 0;font-style:italic}
+    .quote-author{font-weight:700;color:var(--muted);font-size:.95rem}
+    @media (max-width:980px){.quotes-grid{grid-template-columns:repeat(2,1fr)}}
+    @media (max-width:560px){.quotes-grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <img class="edusankalp-logo" src="Elements/EduSankalp_logo.svg" alt="">
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="classes.html">Classes</a>
+        <div class="dropdown"><button class="dropbtn">Boards ▾</button><div class="dropdown-content"><a href="icse.html">ICSE</a><a href="cbse.html">CBSE</a><a href="wb.html">WBCHSE</a></div></div>
+        <a href="funding.html">Funding</a>
+        <a href="contact.html">Contact</a>
+        <a class="cta" href="motivated.html">Get Motivated</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section style="padding:28px 0">
+      <h1>Get Motivated</h1>
+      <p class="muted">A curated list of motivational quotes for learners and educators. Click, read and get inspired!</p>
+
+      <div class="quotes-grid">
+        <div class="quote-card">
+          <p>"Education is the most powerful weapon which you can use to change the world."</p>
+          <div class="quote-author">— Nelson Mandela</div>
+        </div>
+
+        <div class="quote-card">
+          <p>"The beautiful thing about learning is nobody can take it away from you."</p>
+          <div class="quote-author">— B.B. King</div>
+        </div>
+
+        <div class="quote-card">
+          <p>"Tell me and I forget. Teach me and I remember. Involve me and I learn."</p>
+          <div class="quote-author">— Benjamin Franklin</div>
+        </div>
+
+        <div class="quote-card">
+          <p>"Start where you are. Use what you have. Do what you can."</p>
+          <div class="quote-author">— Arthur Ashe</div>
+        </div>
+
+        <div class="quote-card">
+          <p>"Learning never exhausts the mind."</p>
+          <div class="quote-author">— Leonardo da Vinci</div>
+        </div>
+
+        <div class="quote-card">
+          <p>"Success is the sum of small efforts repeated day in and day out."</p>
+          <div class="quote-author">— Robert Collier</div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner"><div>© EduSankalp</div><div class="small-links"><a href="index.html">Home</a></div></div>
+  </footer>
+</body>
+</html>
