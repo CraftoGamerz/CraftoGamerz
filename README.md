@@ -45,5 +45,3 @@
 ---
 
 > *“Questioning is the beginning of intelligence”* 💡
-
----
