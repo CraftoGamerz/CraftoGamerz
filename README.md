@@ -5,25 +5,27 @@
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CraftoGamerz/CraftoGamerz/main/assets/profile-banner.svg" alt="Abusina Hossain | AI, machine learning and creative technology" width="100%" />
+  <!-- Seamlessly looping GIF: animated neural nodes + moving signal packets. -->
+  <img src="https://raw.githubusercontent.com/CraftoGamerz/CraftoGamerz/main/assets/profile-banner.gif" alt="Abusina Hossain — AI, machine learning and creative technology, with an animated neural network" width="100%" />
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=69E7FF&center=true&vCenter=true&width=760&height=44&lines=B.Tech+Student+%7C+Artificial+Intelligence+%26+ML;Building+ideas+into+working+prototypes;AI+%2B+data+%2B+creative+technology;Learn.+Build.+Test.+Improve." alt="Animated introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=69E7FF&center=true&vCenter=true&width=760&height=44&lines=Learning+by+building;AI+%2B+data+%2B+creative+technology;Prototype.+Test.+Iterate.;Curiosity+into+useful+software." alt="Learning by building · AI, data and creative technology · Prototype, test, iterate" />
   </p>
 
   <p>
-    <a href="https://github.com/CraftoGamerz"><img src="https://img.shields.io/badge/GitHub-CraftoGamerz-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/abusina-hossain-600466388/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:microsoft9564+gitpro@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/CraftoGamerz"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20PROJECTS-202938?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects on GitHub" /></a>
+    <a href="https://www.linkedin.com/in/abusina-hossain-600466388/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-155E9A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+    <a href="mailto:microsoft9564+gitpro@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-6D4AFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-14213D?style=flat-square&labelColor=0B1220" alt="Focus: AI and ML" />
-    <img src="https://img.shields.io/badge/ALSO-GRAPHIC%20DESIGN-312E81?style=flat-square&labelColor=0B1220" alt="Also: graphic design" />
-    <img src="https://img.shields.io/badge/BASED%20IN-West%20Bengal%2C%20India-155E75?style=flat-square&labelColor=0B1220" alt="West Bengal, India" />
+    <img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-0D2638?style=flat-square&labelColor=0B1220" alt="Focus: AI and machine learning" />
+    <img src="https://img.shields.io/badge/ALSO-CREATIVE%20TECH-292044?style=flat-square&labelColor=0B1220" alt="Also: creative technology" />
+    <img src="https://img.shields.io/badge/BUILD-LEARN%20ITERATE-12352D?style=flat-square&labelColor=0B1220" alt="Build, learn and iterate" />
+    <img src="https://img.shields.io/badge/BASED%20IN-WEST%20BENGAL%2C%20INDIA-134A5A?style=flat-square&labelColor=0B1220" alt="Based in West Bengal, India" />
   </p>
+  <sub>CURIOUS BY DEFAULT · DESIGN-MINDED · LEARNING IN PUBLIC</sub>
 </div>
-
 ---
 
 ## `~/about` — Hello, I'm Abusina 👋
@@ -178,21 +180,19 @@ flowchart LR
     style F fill:#064E3B,stroke:#34D399,color:#F8FAFC
 ```
 
-## `~/playground` — A little GitHub side quest 🐍
+## `~/playground` — The contribution snake 🐍
 
-<details>
-  <summary><b>Click to reveal the contribution snake</b></summary>
-  <br />
-  <p>A tiny visual easter egg, not a productivity scoreboard. My profile is about the things I build and learn, not a streak counter.</p>
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CraftoGamerz/CraftoGamerz/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CraftoGamerz/CraftoGamerz/output/github-snake.svg" />
-      <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/CraftoGamerz/CraftoGamerz/output/github-snake-dark.svg" width="100%" />
-    </picture>
-  </div>
-  <sub>The image appears after the GitHub Actions workflow has run successfully once.</sub>
-</details>
+A little motion in the profile: this snake follows the contribution grid. The animation is generated from GitHub activity by the workflow in this repository, so there are no streak cards or contribution totals competing for attention.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CraftoGamerz/CraftoGamerz/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CraftoGamerz/CraftoGamerz/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/CraftoGamerz/CraftoGamerz/output/github-snake-dark.svg" alt="Animated snake travelling across the GitHub contribution grid" width="100%" />
+  </picture>
+</div>
+
+<sub>If the image is missing immediately after setup, let the first GitHub Actions run finish. Open the repository's Actions tab and run **Generate contribution snake** manually once if needed; the generated SVGs are published to the `output` branch.</sub>
 
 ## `~/connect` — Have an interesting problem? 🤝
 

@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - main
+      - master
     paths:
       - "README.md"
       - ".github/workflows/snake.yml"
@@ -23,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate light and dark SVGs
+      - name: Generate light and dark animated SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -31,7 +32,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publish SVGs to the output branch
+      - name: Publish the SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
