@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title desc">
+  <title id="title">Thanks for visiting</title>
+  <desc id="desc">A minimal cyan and violet wave footer.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#66F0FF"/>
+      <stop offset="0.5" stop-color="#6C8DFF"/>
+      <stop offset="1" stop-color="#B18CFF"/>
+    </linearGradient>
+    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#34245D" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#070B14" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 39 C160 91 270 6 420 37 S675 95 830 37 S1050 5 1200 40 L1200 112 L0 112Z" fill="url(#fill)"/>
+  <path d="M0 39 C160 91 270 6 420 37 S675 95 830 37 S1050 5 1200 40" fill="none" stroke="url(#line)" stroke-width="2" stroke-opacity="0.85"/>
+  <path d="M0 57 C160 109 270 24 420 55 S675 113 830 55 S1050 23 1200 58" fill="none" stroke="url(#line)" stroke-width="1" stroke-opacity="0.3"/>
+  <g fill="#8DEBFF">
+    <circle cx="130" cy="64" r="2.3"/><circle cx="315" cy="32" r="2.3"/><circle cx="529" cy="59" r="2.3"/>
+    <circle cx="734" cy="72" r="2.3"/><circle cx="931" cy="27" r="2.3"/><circle cx="1090" cy="24" r="2.3"/>
+  </g>
+  <text x="600" y="91" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="3" fill="#93A8D0">KEEP QUESTIONING · KEEP BUILDING · KEEP EXPLORING</text>
+</svg>
