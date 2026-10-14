@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Abusina Hossain
+## 👋 Hi, I'm Abusina Hossain
 
 🎓 **B.Tech Student in Artificial Intelligence & Machine Learning**
 🏫 Studying at **JIS College of Engineering**
