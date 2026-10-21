@@ -51,7 +51,7 @@ I'm a B.Tech student in **Artificial Intelligence & Machine Learning at JIS Coll
 │  $ current_mode                                        │
 │  learn  →  prototype  →  test  →  iterate              │
 │                                                        │
-│  $ motto                                                │
+│  $ motto                                               │
 │  "Questioning is the beginning of intelligence."       │
 │                                                        │
 └────────────────────────────────────────────────────────┘
